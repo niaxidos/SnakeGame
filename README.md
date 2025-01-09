@@ -1,7 +1,7 @@
 # Snake Game
 Welcome to my Snake Game, my very first 2D Unity Project! This is a recreation of the classic Snake game.
 
-For this project, I followed [this tutorial](https://youtu.be/U8gUnpeaMbQ?si=lS1HzB1s8NcujiIY) by Zigurous.
+For this project, I followed [this tutorial](https://youtu.be/U8gUnpeaMbQ?si=lS1HzB1s8NcujiIY) by Zigurous but added my own features.
 
 ## How to Play
 - Choose between the three different difficulties (easy, normal and expert).
